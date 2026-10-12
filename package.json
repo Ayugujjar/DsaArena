@@ -1,0 +1,11 @@
+{
+  "name": "dsa-progress-tracker",
+  "version": "1.0.0",
+  "description": "Full-Stack DSA Progress Tracking Platform for Students & Admins",
+  "scripts": {
+    "seed:dev": "node backend/scripts/seed.js",
+    "reset:dev": "node backend/scripts/reset-db.js",
+    "server": "node backend/server.js",
+    "dev:backend": "node --watch backend/server.js"
+  }
+}
