@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DsArena — Full-Stack DSA Progress Tracking Platform
 
 A modern, responsive full-stack telemetry and performance tracking platform for monitoring students' Data Structures & Algorithms (DSA) problem-solving consistency on **LeetCode** and **GeeksforGeeks (GFG)** across academic training batches (**Alpha**, **Beta**, **Gamma**, and future custom cohorts).
@@ -163,3 +164,6 @@ Now open **http://localhost:5173** in your browser.
 3. **Role-Based Access Control**: Strict segregation between Student, Moderator, Admin, and Super Admin privileges.
 4. **Session Safety**: Short-lived sessions use HttpOnly, SameSite cookies; logout and password changes invalidate existing sessions.
 5. **Conservative Daily Counts**: Daily changes are counted only from same-day snapshots, avoiding unsupported attribution of multi-day total changes to a single date.
+=======
+# DsaArena
+>>>>>>> 774de71f07acf2ad65c709d0f2545d8fa6bcfdec
